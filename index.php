@@ -10,9 +10,10 @@
 </head>
 <body>
     <main>
+        
         <div class="container-principal">
             <form method="post" class="formulario" action="resultado.php">
-                <h2 class="titulo">Seu Indice de Massa Corporal</h2>
+                <h2 class="titulo">Seu Índice de Massa Corporal</h2>
 
                 Digite sua altura
                 

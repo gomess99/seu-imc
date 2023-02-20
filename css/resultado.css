@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;700&family=Montserrat:wght@300;400&family=Quicksand&display=swap');
+
+body{
+    background-image: linear-gradient(90deg, #e66465 ,#9198e5 );
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.container-principal{
+    padding: 50px;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    box-shadow: 3px 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    align-items: center;
+    text-align: center;
+    line-height: 70px;
+}
+
+p{
+    text-align: center;
+}
