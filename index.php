@@ -19,7 +19,7 @@
                 
                 <input type="number" min="0" step=".01" name="altura" placeholder="Ex. 1,70" id=""> 
 
-                Digite sua peso
+                Digite seu peso
 
                 <input type="number" min="0" step=".01" name="peso" placeholder="Ex. 70,00"  id="">
 

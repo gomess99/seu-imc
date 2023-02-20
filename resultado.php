@@ -36,7 +36,7 @@
                     echo "<script>document.body.style.background = '#fcf805'</script>";
                     
                 }elseif($imc >= 30 && $imc <= 34.9){
-                    echo "<h1 class='titulo'>Seu Imc é de<br> ".number_format($imc, 2)." Kg/m²</h1>"."<br>Significa que está com Obesidade nível I<p>Atenção! Vá ao médico</p>";
+                    echo "<h1 class='titulo'>Seu Imc é de<br> ".number_format($imc, 2)." Kg/m²</h1>"."<br>Significa que está com Obesidade nível I<p>Atenção! Vá ao médico!</p>";
                     echo "<script>document.body.style.background = '#fc9e05'</script>";
 
                 }elseif($imc > 34.9 && $imc < 40){
